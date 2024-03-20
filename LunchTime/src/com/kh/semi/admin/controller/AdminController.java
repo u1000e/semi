@@ -15,9 +15,5 @@ public class AdminController {
 	public void b() {
 		System.out.println("나는 참 일을ㅇ 려심히하는사람이야~~~");
 	}
-	
-	public void d() {
-		System.out.println("얼씨ㅗ저리꼬~~");
-	}
 
 }
