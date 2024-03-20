@@ -19,5 +19,9 @@ public class AdminController {
 	public void d() {
 		System.out.println("얼씨ㅗ저리꼬~~");
 	}
+	
+	public void e() {
+		System.out.println("이승철이 나도 햇다 ~~~");
+	}
 
 }
