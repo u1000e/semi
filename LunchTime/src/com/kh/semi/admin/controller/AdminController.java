@@ -27,5 +27,9 @@ public class AdminController {
 	public void hi() {
 		System.out.println("안녕안녕~~");
 	}
+	
+	public void bye() {
+		System.out.println("어쩔~~");
+	}
 
 }
