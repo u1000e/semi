@@ -23,5 +23,9 @@ public class AdminController {
 	public void e() {
 		System.out.println("이승철이 나도 햇다 ~~~");
 	}
+	
+	public void hi() {
+		System.out.println("안녕안녕~~");
+	}
 
 }
