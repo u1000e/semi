@@ -9,6 +9,7 @@ public class AdminController {
 	
 	public void a() {
 		System.out.println("호허허허허히히히히");
+		sdfsdfsdfsdfs
 	}
 	
 	
