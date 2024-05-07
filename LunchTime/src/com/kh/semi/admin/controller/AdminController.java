@@ -9,7 +9,10 @@ public class AdminController {
 	
 	public void a() {
 		System.out.println("호허허허허히히히히");
-		sdfsdfsdfsdfs
+	}
+	
+	public void login() {
+		System.out.print("이거는 로긍니 기능이다 후푸하하하하");
 	}
 	
 	
