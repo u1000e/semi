@@ -15,6 +15,9 @@ public class AdminController {
 		System.out.print("이거는 로긍니 기능이다 후푸하하하하");
 	}
 	
+	public void join() {
+		System.out.println("내가 다했어 잘했어");
+	}
 	
 	public void b() {
 		System.out.println("나는 참 일을ㅇ 려심히하는사람이야~~~");
