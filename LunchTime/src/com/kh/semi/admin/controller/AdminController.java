@@ -19,6 +19,10 @@ public class AdminController {
 		System.out.println("내가 다했어 잘했어");
 	}
 	
+	public void logout() {
+		System.out.println("로그아웃이다 푸하하하");
+	}
+	
 	public void b() {
 		System.out.println("나는 참 일을ㅇ 려심히하는사람이야~~~");
 	}
